@@ -1,9 +1,9 @@
-### Hi there I'm Yogeshwaran R!👋
+### Hi there 👋 I'm Yogeshwaran R!
 
 <hr>
 
 - 🔭 I’m currently working on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
-- 🌱 I’m currently learning on [Google IT Automation with Python-Google](https://www.coursera.org/professional-certificates/google-it-automation?)
+- 🌱 I’m currently learning on [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation?)
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
 - 🤔 I’m looking for help with correct career path
 - 💬 Ask me about me
@@ -12,4 +12,8 @@
 
 <hr>
 
-![stats](https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true" alt="stats">
+
+<hr>
+
+<h4 align="center"> Sponser Me ❤️ by Review my Code </h4>
