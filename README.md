@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm Yogeshwaran R!👋
 
-<!--
-**yogeshwaran01/yogeshwaran01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
+- 🌱 I’m currently learning on [Google IT Automation with Python-Google](https://www.coursera.org/professional-certificates/google-it-automation?)
+- 👯 I’m looking to collaborate on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
+- 🤔 I’m looking for help with correct career path
+- 💬 Ask me about me
+- 📫 How to reach me: [G-Mail](yogeshin247@gmail.com) [LinkedIn](https://www.linkedin.com/in/yogeshwaran01/) [Facebook](https://www.facebook.com/yogeshwaran01.com)
+- ⚡ Fun fact: The real fact of life is Fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![stats](https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true)
