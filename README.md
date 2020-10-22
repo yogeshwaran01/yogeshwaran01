@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
 - 🤔 I’m looking for help with correct career path
 - 💬 Ask me about me
-- 📫 How to reach me: [G-Mail](yogeshin247@gmail.com) [LinkedIn](https://www.linkedin.com/in/yogeshwaran01/) [Facebook](https://www.facebook.com/yogeshwaran01.com)
+- 📫 How to reach me: [G-Mail](mailto:yogeshin247@gmail.com) [LinkedIn](https://www.linkedin.com/in/yogeshwaran01/) [Facebook](https://www.facebook.com/yogeshwaran001)
 - ⚡ Fun fact: The real fact of life is Fun
 
 <hr>
