@@ -1,6 +1,5 @@
 <h2 align="center"> Hi there 👋 I'm Yogeshwaran R! </h2>
 
-<hr>
 
 - 🔭 I’m currently working on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
 - 🌱 I’m currently learning on [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation?)
