@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yogeshwaran R!
+<h2 align="center"> Hi there 👋 I'm Yogeshwaran R! </h2>
 
 <hr>
 
