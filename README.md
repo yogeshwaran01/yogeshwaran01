@@ -4,8 +4,9 @@
 - 🔭 I’m currently working on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
 - 🌱 I’m currently learning on [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation?)
 - 👯 I’m looking to collaborate on [My Projects](https://github.com/yogeshwaran01?tab=repositories)
+- 📚 Blog: [My Blogs](https://yogeshwaran01.herokuapp.com/posts)
 - 💬 Ask me about me
-- 📫 How to reach me: [G-Mail](mailto:yogeshin247@gmail.com) [LinkedIn](https://www.linkedin.com/in/yogeshwaran01/) [Facebook](https://www.facebook.com/yogeshwaran001)
+- 📫 How to reach me: [Contact](https://yogeshwaran01.herokuapp.com/contact)
 - ⚡ Fun fact: The real fact of life is Fun
 
 <hr>
