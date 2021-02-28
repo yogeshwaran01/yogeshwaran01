@@ -10,7 +10,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true" alt="stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true&theme=chartreuse-dark" alt="stats">
 
 <hr>
 
