@@ -10,8 +10,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true&theme=chartreuse-dark" alt="stats">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwaran01&show_icons=true&theme=chartreuse-dark" alt="stats"></p>
 
-<hr>
 
-<h4 align="center"> Sponser Me ❤️ by Review my Code </h4>
+<h4 align="center">  💻  </h4>
