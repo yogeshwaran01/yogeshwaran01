@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on [My Projects](https://yogeshwaran01.herokuapp.com/projects)
 - 📚 Blog: [My Blogs](https://yogeshwaran01.herokuapp.com/posts)
 - 📫 How to reach me: [Contact](https://yogeshwaran01.herokuapp.com/contact)
-- ⚡ Fun fact: The real fact of life is Fun
+- ⚡ Fun fact: The real fact of life is Fun 😜
 
 <hr>
 
