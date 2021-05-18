@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href='https://github.com/yogeshwaran01/github-stats-terminal-style'>
-  <img align="center" src="https://github-stats-terminal-style.herokuapp.com/yogeshwaran01?theme=dracula" alt="stats">
+  <img align="center" src="https://github-stats-terminal-styles.herokuapp.com/yogeshwaran01?theme=dracula" alt="stats">
   </a>
 </p>
 
