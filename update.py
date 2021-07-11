@@ -1,10 +1,11 @@
 import collections
 import datetime
 import os
+import random
 
-from jinja2 import Template
 import github
 from github.GithubException import GithubException
+from jinja2 import Template
 
 GITHUB_TOKEN = os.environ.get("GHT")
 
@@ -223,6 +224,6 @@ with open("stats.svg", "w") as file_obj:
     template = Template(template_string)
     rendered_string = template.render(
         data=get_stats("yogeshwaran01"),
-        theme=get_theme("default")
+        theme=get_theme(random.choice(list(THEMES.keys())))
     )
     file_obj.write(rendered_string)
