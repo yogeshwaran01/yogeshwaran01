@@ -8,13 +8,13 @@
 
 </div>
 
-<p align="center" >
+<div align="center" >
     <details>
         <summary>
             Stats
         </summary>
         <p align="center" ><a href="https://www.linkedin.com/in/yogeshwaran01/" title="Github Stats"><img src="./stats.svg" alt="Github Stats"></a> </p>
     </details>
-</p>
+</div>
 
 <h4 align="center">  👨‍💻  </h4>
