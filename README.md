@@ -13,7 +13,7 @@
         <summary>
             Stats
         </summary>
-        <p align="center" ><a href="https://www.linkedin.com/in/yogeshwaran01/" title="Github Stats"><img src="./stats.svg" alt="Github Stats"></a> </p>
+        <p align="center" ><img src="./stats.svg" alt="Github Stats"></p>
     </details>
 </div>
 
