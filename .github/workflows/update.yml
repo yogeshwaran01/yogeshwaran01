@@ -36,6 +36,12 @@ jobs:
           python3 -m pip install --upgrade pip setuptools wheel
           python3 -m pip install -r requirements.txt
           
+      - name: Github Configurations
+        run: |
+          git config --global user.name "YOGESHWARAN R"
+          git config --global user.email "yogeshin247@gmail.com"
+          git pull
+          
       - name: Update Template
         run: |
           python3 update.py
@@ -45,8 +51,6 @@ jobs:
       # Commiting
       - name: commiting changed svg template
         run: |
-          git config --global user.name "YOGESHWARAN R"
-          git config --global user.email "yogeshin247@gmail.com"
           git add .
           git commit -m "Template updated 🎉" || echo
           git push
