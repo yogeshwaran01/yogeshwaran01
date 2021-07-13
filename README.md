@@ -2,7 +2,7 @@
 
 <p align="center" >
     <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-        <img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" width=50% height=50%>
+        <img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" width=65% height=65%>
     </a>
 </p>
 
