@@ -13,7 +13,11 @@
         <summary>
             Stats
         </summary>
-        <p align="center" ><img src="./stats.svg" alt="Github Stats"></p>
+        <p align="center" >
+            <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
+                <img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats">
+            </a>
+        </p>
     </details>
 </div>
 
