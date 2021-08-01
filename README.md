@@ -1,5 +1,3 @@
-<h3 align="center"> Hi there 👋 </h3>
-
 <p align="center" >
     <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
         <img src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
