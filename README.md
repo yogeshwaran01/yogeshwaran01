@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋, I'm <code> YOGESHWARAN R </code> </h2>
+<h2 align="center"> Hi 👋, I'm <code> YOGESHWARAN R </code> </h2>
 
 
 <p align="center" >
