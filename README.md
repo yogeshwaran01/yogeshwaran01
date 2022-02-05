@@ -14,14 +14,14 @@
 </div>
 
 
-<p align="center" >
-    <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-        <img width="500px" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-    </a>
-</p>
-
-
-
+<details align='center'>
+    <summary>Github Stats</summary>
+    <p align="center" >
+        <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
+            <img width="500px" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+        </a>
+    </p>
+</details>
 
 
 <h4 align="center">  👨‍💻  </h4>
