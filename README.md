@@ -14,10 +14,4 @@
     </a>
 </p>
 
-<p align="center" >
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31vvezj53jewxv5sccxib5c4ky2u&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vvezj53jewxv5sccxib5c4ky2u&cover_image=true&theme=natemoo-re&bar_color=5ebc09&bar_color_cover=false" alt="spotify-github-profile" title="Spotify now playing" width=400px>
-    </a>
-</p>
-
 <h4 align="center"> 🙏 </h4>
