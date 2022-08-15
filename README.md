@@ -13,5 +13,3 @@
         <img width="450px" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
     </a>
 </p>
-
-<h4 align="center"> 🙏 </h4>
