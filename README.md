@@ -10,6 +10,6 @@
 
 <p align="center" >
     <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
-        <img width="450px" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+        <img width="750px" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
     </a>
 </p>
